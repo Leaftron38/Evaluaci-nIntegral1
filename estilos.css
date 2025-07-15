@@ -1,0 +1,50 @@
+.texto{
+    text-align: center;
+    justify-items: center;
+}
+#logoicon{
+    height: 80px;
+    
+}
+.tarjetas{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.mapaaa{
+  display: flex;
+  margin-left: 50px;
+  
+}
+.control{
+    display: flex;
+    align-items: center;
+    
+}
+.tarjetas{
+   justify-content: space-evenly;
+}
+a:hover{
+    opacity: 50%;
+    color: yellow;
+}
+a{
+    color: black;
+}
+
+.texto{
+   
+  font-family: "Libertinus Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+.tres{
+    background-image: url(img/zzz-lumina.webp);
+}
+.formulario{
+    margin-left: 20px;
+}
+
+
+
